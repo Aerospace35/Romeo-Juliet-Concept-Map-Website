@@ -7,7 +7,7 @@
 	color: #000;
 }
 
-a {
+a,u,i {
 	background-color: #DCAE96;
 }
 	
@@ -101,5 +101,6 @@ else {
 } ?>
 </div>
 <br><br><br><br>
-
-<u><i>Developed by Brodie Friesen. Open source and hosted on Github</i></u>
+<div class="content">
+<u><i>Developed by Brodie Friesen. Open source and available on <a href="https://github.com/Aerospace35/Romeo-Juliet-Concept-Map-Website">Github</a></i></u>
+</div>
